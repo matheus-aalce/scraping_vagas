@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=scraping_vagas
+POSTGRES_USER=mYMaQLtgfXGCQbkjnXxPRIYCPuKlHShP
+POSTGRES_PASSWORD=oVOenl2XaKrAiEtloxGXuXX3T3JOQ9QBMeKVThxz9gdMR90WFB184kFHvpIG07OA
